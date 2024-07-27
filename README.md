@@ -1,3 +1,7 @@
+# Review Site Type: TV Shows Review
+# Frontend: Vue
+# Backend: Strapi
+
 # tv-show-reviews-frontend
 
 ## Project setup
